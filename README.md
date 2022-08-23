@@ -1,8 +1,10 @@
 # NFTVerseJob
 #Steps to run on your local environment
 
-1.) Git clone this repo.
+1.) Git clone this repo. 
+
 2.) Open terminal and go to the root folder of this project and run "npm install"
+
 3.)Run "npm start"
 
 Cloned from -> https://imgur.com/a/VOFvEo5
