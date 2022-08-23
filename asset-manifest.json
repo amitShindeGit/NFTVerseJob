@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NFTVerseJob/static/css/main.60aafb02.css",
+    "main.js": "/NFTVerseJob/static/js/main.ba275fc6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/NFTVerseJob/static/js/787.28cb0dcd.chunk.js",
+    "static/media/run.jpg": "/NFTVerseJob/static/media/run.6fa92611ff3f81ccb855.jpg",
+    "static/media/mount1.jpg": "/NFTVerseJob/static/media/mount1.4ce15bc1b038f5070329.jpg",
+    "static/media/tech.jpg": "/NFTVerseJob/static/media/tech.2ded7d745aa658803417.jpg",
+    "static/media/profile.jpg": "/NFTVerseJob/static/media/profile.d49921946459dd8a810f.jpg",
+    "static/media/mount2.jpg": "/NFTVerseJob/static/media/mount2.bec0fa36ca2abaad977c.jpg",
+    "index.html": "/NFTVerseJob/index.html",
+    "main.60aafb02.css.map": "/NFTVerseJob/static/css/main.60aafb02.css.map",
+    "main.ba275fc6.js.map": "/NFTVerseJob/static/js/main.ba275fc6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/NFTVerseJob/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60aafb02.css",
+    "static/js/main.ba275fc6.js"
+  ]
+}
